@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576692617274",
+    "project_id": "instrumental-4c87b",
+    "storage_bucket": "instrumental-4c87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576692617274:android:9c0bc35404651992363503",
+        "android_client_info": {
+          "package_name": "com.example.instrumentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576692617274-ipsk8fp9oo746h7o0vbto6ojhhvah4gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3MeucDa_XaHeuvAUUFAzrlwuBsuaKtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576692617274-ipsk8fp9oo746h7o0vbto6ojhhvah4gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
